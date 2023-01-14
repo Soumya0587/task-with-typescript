@@ -1,46 +1,17 @@
-# Getting Started with Create React App
+This is a New-age task management app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### In this project Tech stack used are 
 
-## Available Scripts
+1. TypeScript
+2. React js
+3. CSS 
 
-In the project directory, you can run:
+### In this project we have
 
-### `npm start`
+# 1. Home Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Home page](https://user-images.githubusercontent.com/112627297/212486989-2c7c68dc-da2d-4372-a076-eb3296a9e7e9.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 2. Adding task
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![task](https://user-images.githubusercontent.com/112627297/212487072-b5c26c45-d333-400e-b52d-28c4e1c0322a.png)
